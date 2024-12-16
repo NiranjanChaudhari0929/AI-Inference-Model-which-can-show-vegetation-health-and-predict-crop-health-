@@ -1,0 +1,5 @@
+1) A robust predicition  model can be developed that will help understanding vegetation cover
+  at any future time and date.
+2) Fast interface providing and suggesting the health of particular region with additional
+features like altitude , wind , microbe heatlh, etc
+3) testing various models to analyse the best model possible for prediction.

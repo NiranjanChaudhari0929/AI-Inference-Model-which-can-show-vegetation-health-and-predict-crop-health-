@@ -1,2 +1,2 @@
-﻿# A robust predicition  model can be developed that will help understanding vegetation cover
-  at any future time and date.
+﻿
+This project was done ubder the guidance of Dr Kaushal Kishore working as Senior Scientist in CSIR-CEERI.
